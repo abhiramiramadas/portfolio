@@ -43,7 +43,7 @@ To run locally:
 git clone https://github.com/abhiramiramadas/portfolio.git
 cd portfolio
 ```
-# Open index.html in your browser
+- Open index.html in your browser
 
 ### 📬 Contact Me
 📧 abhiramiramadas2004@gmail.com
