@@ -46,9 +46,9 @@ cd portfolio
 # Open index.html in your browser
 
 ### 📬 Contact Me
-### 📧 abhiramiramadas2004@gmail.com
+📧 abhiramiramadas2004@gmail.com
 
-### 🌐 LinkedIn
+[🌐 LinkedIn](https://www.linkedin.com/in/abhiramiramadas)
 
-### ⭐️ Show Some Love
-### If you like this portfolio, give it a ⭐️ on GitHub — it really motivates me to build more!
+⭐️ Show Some Love
+If you like this portfolio, give it a ⭐️ on GitHub — it really motivates me to build more!
