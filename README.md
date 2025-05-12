@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! 🌐 This project showcases my journey, skills, and works as an IT engineering student passionate about software development, UI/UX, and machine learning.
 
-🔗 **Live Demo**: [View Portfolio](https://abhiramiramadas.github.io/portfolio)
+🔗 **Live Demo**: [View Portfolio](https://portfolio-blond-two-75.vercel.app/)
 
 ---
 
